@@ -1,6 +1,6 @@
 module github.com/89z/googleplay
 
-go 1.17
+go 1.25.0
 
 require (
 	github.com/89z/format v1.22.2
@@ -9,7 +9,7 @@ require (
 
 require (
 	github.com/refraction-networking/utls v1.0.0 // indirect
-	golang.org/x/crypto v0.0.0-20210817164053-32db794688a5 // indirect
-	golang.org/x/sys v0.0.0-20210615035016-665e8c7367d1 // indirect
+	golang.org/x/crypto v0.52.0 // indirect
+	golang.org/x/sys v0.45.0 // indirect
 	google.golang.org/protobuf v1.27.1 // indirect
 )
